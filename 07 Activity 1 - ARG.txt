@@ -1,0 +1,106 @@
+Here are your latest answers:
+
+Question 1
+ What is the simplest type of I/O support can an operating system provide?
+
+Response: Single buffer
+
+Score: 2 out of 2 Yes
+
+Question 2
+ These specifically pertain to devices that are suitable for communicating with computer users.
+
+Response: Human readable devices
+
+Score: 2 out of 2 Yes
+
+Question 3
+ Which of the following is NOT a technique in performing I/O?
+
+Response: Disk scheduling
+
+Score: 2 out of 2 Yes
+
+Question 4
+ It works like an interface between an actual device and a device driver.
+
+Response: Device controller
+
+Score: 2 out of 2 Yes
+
+Question 5
+ Which of the following is NOT an I/O device characteristic?
+
+Response: Interrupt
+
+Score: 2 out of 2 Yes
+
+Question 6
+ In this scheduling policy, the control of the scheduling is outside the control of the disk management software.
+
+Response: Priority
+
+Score: 2 out of 2 Yes
+
+Question 7
+ What term is used to indicate a memory that is smaller and faster to access than the main memory?
+
+Response: Cache memory
+
+Score: 2 out of 2 Yes
+
+Question 8
+ What does DMA stand for?
+
+Response: Direct Memory Access
+
+Score: 2 out of 2 Yes
+
+Question 9
+ It is a software module that can be plugged into the operating system.
+
+Response: Device driver
+
+Score: 2 out of 2 Yes
+
+Question 10
+ What does SSTF stand for?
+
+Response: Shortest Service Time First
+
+Score: 2 out of 2 Yes
+
+Question 11
+ These specifically pertain to devices that are suitable for communicating with electronic equipment.
+
+Response: Machine-readable devices
+
+Score: 2 out of 2 Yes
+
+Question 12
+ Which layer of an I/O function involves queueing and operations control?
+
+Response: Scheduling and control layer
+
+Score: 2 out of 2 Yes
+
+Question 13
+ In this scheduling policy, the arm is required to move in one direction only, satisfying all outstanding requests in route, until it reaches the last track in the direction.
+
+Response: SCAN
+
+Score: 2 out of 2 Yes
+
+Question 14
+ This refers to the standardized scheme for multiple-disk database design.
+
+Response: RAID
+
+Score: 2 out of 2 Yes
+
+Question 15
+ What disk performance parameter encompasses the time required to move the disk arm to the required track?
+
+Response: Seek time
+
+Score: 2 out of 2 
