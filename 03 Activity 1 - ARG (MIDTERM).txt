@@ -1,0 +1,76 @@
+Here are your latest answers:
+
+Question 1
+ The potential performance benefits of a multicore system ultimately depend on the ability of a multithreaded application to effectively abstract and limit parallel resources.
+
+Score: 2 out of 2 Yes
+
+Question 2
+ A thread library requires a programmer to create a new application program interface for managing threads.
+
+Score: 2 out of 2 Yes
+
+Question 3
+ The spawn operation moves a blocked thread into the ready queue for the execution continuation.
+
+Score: 2 out of 2 Yes
+
+Question 4
+ The block operation happens whenever a thread is completely executed.
+
+Score: 2 out of 2 Yes
+
+Question 5
+ Any application can be designed to have multiple threads by using a thread library.
+
+Score: 2 out of 2 Yes
+
+Question 6
+ In dealing with operating system threads, any resource alteration by one thread can affect the environment of the other threads within the same process.
+
+Score: 2 out of 2 Yes
+
+Question 7
+ If a process contains multiple threads of control, it can only perform a maximum of three (3) tasks at a time.
+
+Score: 2 out of 2 Yes
+
+Question 8
+ Multiple threads can be created and executed within a process in a one process-multiple threads arrangement.
+
+Score: 2 out of 2 Yes
+
+Question 9
+ In an operating system, resource ownership is usually referred to as lightweight process.
+
+Score: 2 out of 2 Yes
+
+Question 10
+ Synchronization of various thread activities is not encouraged to maintain the data structure of a process.
+
+Score: 2 out of 2 Yes
+
+Question 11
+ There are four (4) key states in dealing with threads in operating systems.
+
+Score: 2 out of 2 Yes
+
+Question 12
+ A thread library can only contain codes for user-level threads.
+
+Score: 2 out of 2 Yes
+
+Question 13
+ The thread construct is useful for systems with a single processor, since it simplifies the structure of a program.
+
+Score: 2 out of 2 Yes
+
+Question 14
+ It is possible for a thread to migrate from one process environment to another in a one process-one thread arrangement.
+
+Score: 2 out of 2 Yes
+
+Question 15
+ All threads should at least contain the following general attributes: a thread identification, an alert status, and an impersonation token.
+
+Score: 2 out of 2 
