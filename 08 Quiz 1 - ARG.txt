@@ -1,0 +1,76 @@
+Here are your latest answers:
+
+Question 1
+ An identifier is a unique tag that distinguishes a file within a file system.
+
+Score: 0 out of 2 No
+
+Question 2
+ There are only four (4) fundamental operations that can be performed in a file system.
+
+Score: 2 out of 2 Yes
+
+Question 3
+ A database is a collection of related data that can only be used in reading records.
+
+Score: 0 out of 2 No
+
+Question 4
+ A file should only have a complex external structure that is suitable for all types of applications.
+
+Score: 2 out of 2 Yes
+
+Question 5
+ A good structure and long-term existence are some desirable properties of a file system.
+
+Score: 2 out of 2 Yes
+
+Question 6
+ All file systems maintain a set of attributes associated with the files in the structure.
+
+Score: 2 out of 2 Yes
+
+Question 7
+ A record is the most basic element of data.
+
+Score: 2 out of 2 Yes
+
+Question 8
+ Exhaustive indexes are commonly used in pile structures in computer organization.
+
+Score: 2 out of 2 Yes
+
+Question 9
+ Files must be stored on a disk or on other secondary storage and must not disappear when a user logs off.
+
+Score: 2 out of 2 Yes
+
+Question 10
+ Economical storage and reliability are both significant in choosing a file structure.
+
+Score: 0 out of 2 No
+
+Question 11
+ The hashed file structure is the same as the pile structure.
+
+Score: 0 out of 2 No
+
+Question 12
+ File systems frequently interact with different applications.
+
+Score: 2 out of 2 Yes
+
+Question 13
+ A pile structure implements an overflow file and a partial index that holds record entries.
+
+Score: 2 out of 2 Yes
+
+Question 14
+ File organization specifically pertains to the logical structure of multiple databases that is transferable between applications and software.
+
+Score: 0 out of 2 No
+
+Question 15
+ Redundancy can greatly decrease the speed of data access.
+
+Score: 0 out of 2 
