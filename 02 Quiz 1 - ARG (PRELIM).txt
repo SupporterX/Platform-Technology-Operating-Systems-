@@ -1,0 +1,106 @@
+Here are your latest answers:
+
+Question 1
+ Which of the following is a process control execution mode?
+
+Response: Kernel mode
+
+Score: 1 out of 1 Yes
+
+Question 2
+ Which statement best describes process creation?
+
+Response: This is when a new process is to be added to those currently being managed.
+
+Score: 1 out of 1 Yes
+
+Question 3
+ Which of the following is an essential element of a process?
+
+Response: Program code
+
+Score: 1 out of 1 Yes
+
+Question 4
+ In an operating system, where does the process image location depend?
+
+Response: Memory management scheme
+
+Score: 1 out of 1 Yes
+
+Question 5
+ This pertains to a process being created.
+
+Response: New process state
+
+Score: 1 out of 1 Yes
+
+Question 6
+ Which statement best describes a process control block?
+
+Response: It encompasses information that makes process interruption and resumption possible.
+
+Score: 1 out of 1 Yes
+
+Question 7
+ It indicates the current activity of a process in an operating system.
+
+Response: Process state
+
+Score: 1 out of 1 Yes
+
+Question 8
+ These are external events independent from the currently running process, that contribute to process switching.
+
+Response: Interrupts
+
+Score: 1 out of 1 Yes
+
+Question 9
+ Which of the following can place a process in a suspended state?
+
+Response: A parent process
+
+Score: 1 out of 1 Yes
+
+Question 10
+ These are the data present in a processor's registers during process execution.
+
+Response: Context data
+
+Score: 1 out of 1 Yes
+
+Question 11
+ It is a process attribute that involves a unique numerical identifier.
+
+Response: Process identification
+
+Score: 1 out of 1 Yes
+
+Question 12
+ What specific table is maintained by the operating system to keep track of the secondary memory?
+
+Response: Memory table
+
+Score: 1 out of 1 Yes
+
+Question 13
+ What specific table is maintained by the operating system to manage input and output devices and channels?
+
+Response: I/O table
+
+Score: 1 out of 1 Yes
+
+Question 14
+ 6. This pertains to a process being executed.
+
+Response: Running process state
+
+Score: 1 out of 1 Yes
+
+Question 15
+ In process switching, these are related to exception conditions that are generated within the currently running process.
+
+Response: Traps
+
+Score: 1 out of 1 
