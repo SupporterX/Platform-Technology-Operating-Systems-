@@ -1,0 +1,118 @@
+Question 1
+ Which pertains to a service provided by the operating system for the program development section of a computer interface?
+
+Response: Provision facilities for application program development tools in the form of utility programs.
+
+Score: 2 out of 2 Yes
+
+Question 2
+ Which pertains to a service provided by the operating system for the system resource access section of a computer interface?
+
+Response: Control the access to the whole system through access functions and authorizations.
+
+Score: 2 out of 2 Yes
+
+Question 3
+ Which can be considered as one of the objectives of operating systems?
+
+Response: Allowing an efficient computer resource utilization
+
+Score: 2 out of 2 Yes
+
+Question 4
+ Which is NOT considered as an objective of operating systems?
+
+Response: Define a general standard for portability across a wide range of programs.
+
+Score: 2 out of 2 Yes
+
+Question 5
+ In an operating system, which is a valid statement concerning ISA?
+
+Response: The operating system can access additional machine language instructions that deal with the management of a system's ISA.
+
+Score: 2 out of 2 Yes
+
+Question 6
+ In an operating system, which is a valid statement concerning ABI?
+
+Response: It defines the system call interface to the operating system and hardware resources available in the system.
+
+Score: 2 out of 2 Yes
+
+Question 7
+ Which statement is valid regarding operating systems?
+
+Response: The OS provides a convenient interface for using a particular system.
+
+Score: 2 out of 2 Yes
+
+Question 8
+ Which statement is INVALID regarding operating systems?
+
+Response: Time-sharing was developed by the General Motors Research Laboratories.
+
+Score: 2 out of 2 Yes
+
+Question 9
+ In what particular area can an operating system provide a uniform interface that hides the complex sets of instructions for I/O device operation?
+
+Response: Access to I/O devices
+
+Score: 2 out of 2 Yes
+
+Question 10
+ What is the main concept behind simple batch systems?
+
+Response: The utilization of a resident monitor
+
+Score: 2 out of 2 Yes
+
+Question 11
+ What is the main concept behind time-sharing systems?
+
+Response: The simultaneous access to the system through terminals
+
+Score: 2 out of 2 Yes
+
+Question 12
+ What are the two main problems in dealing with serial processing?
+
+Response: Set-up time and scheduling
+
+Score: 2 out of 2 Yes
+
+Question 13
+ Which statement is correct regarding the advancement of operating systems?
+
+Response: The theoretical advances in the development of operating systems cover scheduling and resource management.
+
+Score: 2 out of 2 Yes
+
+Question 14
+ Which statement is INCORRECT regarding the advancement of operating systems?
+
+Response: A multi-programmed batch system must always contain at least three (3) resident monitor in the processor.
+
+Score: 2 out of 2 Yes
+
+Question 15
+ What particular system allows the processor to handle multiple jobs at a time?
+
+Response: A multi-programmed batch system
+
+Score: 2 out of 2 Yes
+
+Question 16
+ What is the most significant aspect of the transition from serial processing system to batch system? Rationalize your answer.
+
+Response: [none]
+
+Score: 3 out of 5 
+
+Question 17
+ In your opinion, what is the most noteworthy innovation in the evolution of operating systems? Why?
+
+Response: Context switch, because it used both for interrupt processing and for concurrency
+
+Score: 4 out of 5 
