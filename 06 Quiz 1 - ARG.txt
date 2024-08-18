@@ -1,0 +1,76 @@
+Here are your latest answers:
+
+Question 1
+ In the Round Robin algorithm, a process is automatically preempted if its waiting time exceeds the turnaround time.
+
+Score: 0 out of 2 No
+
+Question 2
+ The SRTF algorithm is the preemptive version of the NPP algorithm.
+
+Score: 2 out of 2 Yes
+
+Question 3
+ The overall performance of the FCFS algorithm is highly effective and efficient.
+
+Score: 0 out of 2 No
+
+Question 4
+ In the Shortest Job First algorithm, the processing time must be known in advance.
+
+Score: 2 out of 2 Yes
+
+Question 5
+ All process scheduling algorithms encompass a specific selection function and a corresponding decision mode.
+
+Score: 2 out of 2 Yes
+
+Question 6
+ Preemptive scheduling algorithms will never allow interruption.
+
+Score: 2 out of 2 Yes
+
+Question 7
+ Low-priority processes may suffer from starvation if a pure non-preemptive priority scheduling algorithm is implemented.
+
+Score: 2 out of 2 Yes
+
+Question 8
+ Non-preemptive scheduling algorithms can accommodate interruptions that place a blocked process back in the ready state.
+
+Score: 2 out of 2 Yes
+
+Question 9
+ The NPP algorithm is the non-preemptive version of the SRTF algorithm.
+
+Score: 2 out of 2 Yes
+
+Question 10
+ The Shortest Remaining Time First algorithm is a preemptive algorithm.
+
+Score: 2 out of 2 Yes
+
+Question 11
+ The First-Come First-Serve algorithm encompasses a strict queuing system.
+
+Score: 2 out of 2 Yes
+
+Question 12
+ The Round Robin algorithm is considered a non-preemptive algorithm.
+
+Score: 2 out of 2 Yes
+
+Question 13
+ In the First-Come First-Serve algorithm, it is highly recommended to incorporate a priority level to each process.
+
+Score: 2 out of 2 Yes
+
+Question 14
+ The priority of a process can be based on memory requirements or any other resource requirements.
+
+Score: 2 out of 2 Yes
+
+Question 15
+ The time slicing technique is also applicable for the Shortest Remaining Time First algorithm.
+
+Score: 2 out of 2 
