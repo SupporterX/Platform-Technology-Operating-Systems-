@@ -1,0 +1,46 @@
+Here are your latest answers:
+
+Question 1
+ This is a Benefits of Multithreaded Programming. Which pertains to the Multiprocessor of Architecture in Threads.
+
+Score: 5 out of 5 Yes
+
+Question 2
+ This Transpires a new process is created. since a thread is also formed
+
+Score: 2 out of 2 Yes
+
+Question 3
+ This is a thread key states that represent the "Running, Ready and Blocked"
+
+Score: 2 out of 2 Yes
+
+Question 4
+ This is a Benefits of Multithreading Programming. Which pertains to the process creation of the Thread in Operating System
+
+Score: 5 out of 5 Yes
+
+Question 5
+ This is a Benefits of Multithreading Programming. Designates to allow a program to continue operate despite of some part of it is blocked.
+
+Score: 5 out of 5 Yes
+
+Question 6
+ This Operation indicates the ready queue of a Thread
+
+Score: 2 out of 2 Yes
+
+Question 7
+ This is a Benefits of Multithreading Programming. That allows threads to share the memory and resources with pertains to the Operating System.
+
+Score: 5 out of 5 Yes
+
+Question 8
+ This is unique classified ID for Thread
+
+Score: 2 out of 2 Yes
+
+Question 9
+ This is the element of CPU
+
+Score: 0 out of 2 
